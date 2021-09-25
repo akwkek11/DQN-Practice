@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 모델 생성 파일 제외
+model.*
+report.*
+checkpoint
